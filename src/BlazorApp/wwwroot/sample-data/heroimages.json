@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "강아지1",
+    "src": "images/dog-2363759_1280.jpg",
+    "alt": ""
   },
   {
-    "name": "about",
-    "src": "images/motion-background.jpg",
+    "name": "강아지2",
+    "src": "images/puppy-4234435_1280.jpg",
     "alt": "gray abstract background"
   },
   {
-    "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "name": "강아지3",
+    "src": "images/dog-3389729_1280.jpg",
     "alt": "desktop with books and laptop"
   }
 ]
